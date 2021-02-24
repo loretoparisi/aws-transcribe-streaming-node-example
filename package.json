@@ -1,0 +1,20 @@
+{
+    "name": "aws-transcribe-streaming-node-example",
+    "description": "AWS Transcribe Streaming Node Example",
+    "version": "1.0.0",
+    "homepage": "https://github.com/loretoparisi/aws-transcribe-streaming-node-example",
+    "author": {
+        "name": "Loreto Parisi",
+        "email": "loretoparisi@gmail.com"
+    },
+    "engines": {
+        "node": "*"
+    },
+    "devDependencies": {},
+    "keywords": [],
+    "dependencies": {
+      "@aws-sdk/client-transcribe": "^3.6.1",
+    "@aws-sdk/client-transcribe-streaming": "^3.6.1",
+    "aws-sdk": "^2.850.0"
+    }
+}
